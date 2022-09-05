@@ -13,7 +13,7 @@ Links
 [To open a link](www.google.com"GOOGLE")
 
 Images
-![Image Name]([https://www.theverge.com/tldr/22289657/never-gonna-give-you-up-4k](https://media.geeksforgeeks.org/wp-content/uploads/20220816144425/LLdrawio.png))
+![Image Name]([https://media.geeksforgeeks.org/wp-content/uploads/20220816144425/LLdrawio.png])
 
 Use `for` loop
 
