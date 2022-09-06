@@ -1,2 +1,2 @@
 # Markdown-cheatsheet
-syntax for MD files
+- Syntax for MD files
